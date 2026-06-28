@@ -1,0 +1,6 @@
+{
+  "name": "OmniStudy",
+  "description": "Aplicativo de anotações livres e rascunhos otimizado para matemática, redação e estudos em tela dividida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
